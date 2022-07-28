@@ -1,0 +1,6 @@
+﻿  main.c
+D:\ABC\C++\project_1\day_2\Project_0\Project_0\main.c(13,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\ABC\C++\project_1\day_2\Project_0\Project_0\main.c(35,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\ABC\C++\project_1\day_2\Project_0\Project_0\main.c(114,17): warning C4101: “result”: 未引用的局部变量
+D:\ABC\C++\project_1\day_2\Project_0\Project_0\main.c(206,15): warning C4305: “=”: 从“int”到“char”截断
+  Project_0.vcxproj -> D:\ABC\C++\project_1\day_2\Project_0\Debug\Project_0.exe
